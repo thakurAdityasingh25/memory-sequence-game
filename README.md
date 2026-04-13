@@ -1,3 +1,7 @@
+
+
+![Simon Game](./screenshot/simon.png)
+
 # Memory Sequence Game (Simon Says)
 
 ## About the Project
